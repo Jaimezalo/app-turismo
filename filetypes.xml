@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="bdturismo" type="PLAIN_TEXT" />
       <mapping pattern="destinos" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <mapping pattern="h" type="XML" />
     </extensionMap>
   </component>
