@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="bdturismo" type="PLAIN_TEXT" />
+      <mapping pattern="DestinossDb" type="PLAIN_TEXT" />
       <mapping pattern="destinos" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="db" type="SQL" />
